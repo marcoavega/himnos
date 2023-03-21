@@ -1,0 +1,131 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v4.0 | 20180602
+   License: none (public domain)
+*/
+
+html,
+bod,
+di,
+span applet ob ec,
+ifr me,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+a ddress,
+big,
+cite,
+code,
+del,
+d fn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section {
+    display: block;
+}
+
+h1 {
+    color: #efefef;
+    font-size: calc(1em + 4vw);
+    font-weight: 900;
+    font-family: 'librefranklin-black';
+}
+
+h4 {
+    color: #efefef;
+    font-size: 4vw;
+    font-family: 'librefranklin-black';
+    padding-top: 2%;
+}
+
+h5 {
+    color: #efefef;
+    font-size: 2vw;
+    font-family: 'librefranklin-black';
+    padding-top: 2%;
+    justify-content: center;
+}

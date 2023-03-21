@@ -1,0 +1,43 @@
+@import url('../fuentes/fuentes.css');
+body {
+    background: rgb( 236, 240, 241);
+}
+
+.h1-header {
+    font-family: 'Bebas Neue';
+    font-size: calc(1em + 1.5vw);
+    color: #f7f4e5;
+}
+
+.footer {
+    text-align: center;
+}
+
+.principal {
+    padding: 2% .5%;
+    margin: 0%;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+.nav {
+    background: rgb( 102, 255, 255);
+}
+
+.card-deck {
+    margin-bottom: 1%;
+}
+
+.cardCenter {
+    text-align: center;
+}
+
+.margin {
+    margin: 2% 0%;
+}
+
+.contenedor-filas-columnas {
+    height: 600px;
+}
